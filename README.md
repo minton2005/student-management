@@ -18,5 +18,5 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/minton2005/my-app.git
+git clone https://github.com/minton2005/student-management.git
 cd my-app
