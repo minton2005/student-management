@@ -18,5 +18,5 @@
 
 ### 1. Clone Repository
 ```bash
-git clone <URL_GITHUB_REPOSITORY_ของคุณ>
+git clone https://github.com/minton2005/my-app.git
 cd my-app
